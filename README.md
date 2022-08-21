@@ -1,5 +1,7 @@
 <h2> Hi there, I'm Ella 👋</h2>
 
+🌻 Pronouns: She/Her/Elle
+<br></br>
 💼 My last co-op was as a Quantitative Developer with RBC Capital Markets
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
