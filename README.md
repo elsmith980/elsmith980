@@ -8,4 +8,4 @@
 <br></br>
 💬 Ping me about design thinking, EDI in tech, rock climbing or crafts
 <br></br>
-📫 Let's chat on <a href = https://www.linkedin.com/in/ella-smith980/> LinkedIn </a>
+📫 Let's chat on <a target="_blank" href = https://www.linkedin.com/in/ella-smith980/> LinkedIn </a>
