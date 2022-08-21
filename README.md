@@ -4,7 +4,7 @@
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
 <br></br>
-👀 Seeking a Fullstack or Backend Engineering co-op for Winter 2023
+👀 Seeking a co-op in Backend/Fullstack/Data Engineering or Project Management for Winter 2023
 <br></br>
 🌱 Learning about backend development and data science
 <br></br>
