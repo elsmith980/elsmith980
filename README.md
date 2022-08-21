@@ -4,6 +4,8 @@
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
 <br></br>
+👀 Seeking a Fullstack or Backend Engineering co-op for Winter 2023
+<br></br>
 🌱 Learning about backend development and data science
 <br></br>
 💬 Ping me about design thinking, EDI in tech, rock climbing or crafts
