@@ -1,7 +1,5 @@
 <h2> Hi there, I'm Ella 👋</h2>
 
-<h3>Computer Engineering Co-op Student at the University of Waterloo</h3>
-<br></br>
 💼 My last co-op was as a Quantitative Developer with RBC Capital Markets
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
