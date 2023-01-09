@@ -2,11 +2,11 @@
 
 🌻 Pronouns: She/Her/Elle
 <br></br>
-💼 My last co-op was as a Quantitative Developer with RBC Capital Markets
+💼 My current co-op is Full Stack Development at Friendlier
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
 <br></br>
-👀 Seeking a co-op in Backend/Fullstack/Data Engineering or Product Management for Winter 2023
+👀 Will be seeking a co-op in Backend/Fullstack/Data Engineering or Product Management for Winter 2024
 <br></br>
 🌱 Learning about backend development and data science
 <br></br>
