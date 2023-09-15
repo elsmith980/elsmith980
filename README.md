@@ -2,13 +2,11 @@
 
 🌻 Pronouns: She/Her/Elle
 <br></br>
-💼 My current co-op is Full Stack Development at Friendlier
+💼 My last co-op was Full Stack Development at Friendlier
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
 <br></br>
-👀 Will be seeking a co-op in Backend/Fullstack/Data Engineering for Winter 2024
-<br></br>
-🌱 Learning about backend development and data science
+👀 Currently seeking a co-op in Backend/Fullstack/Hardware Engineering for Winter 2024
 <br></br>
 💬 Ping me about design thinking, EDI in tech, the outdoors, or crafts!
 <br></br>
