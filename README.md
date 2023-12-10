@@ -6,7 +6,7 @@
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
 <br></br>
-👀 Currently seeking a co-op in Backend/Fullstack/Hardware Engineering for Winter 2024
+👀 Currently seeking a co-op in Backend/Fullstack/Hardware Engineering for Fall 2024
 <br></br>
 💬 Ping me about design thinking, EDI in tech, the outdoors, or crafts!
 <br></br>
