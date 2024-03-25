@@ -2,7 +2,7 @@
 
 🌻 Pronouns: She/Her/Elle
 <br></br>
-💼 My last co-op was Full Stack Development at Friendlier
+💼 My last co-op was as a Software Engineer at PointClickCare
 <br></br>
 ⚙️ I'm most familiar with Python and Swift
 <br></br>
