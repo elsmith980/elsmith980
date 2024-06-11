@@ -4,7 +4,7 @@
 <br></br>
 💼 My last co-op was as a Software Engineer at PointClickCare
 <br></br>
-⚙️ I'm most familiar with Python and Swift
+⚙️ I'm most familiar with Python and TypeScript/JavaScript
 <br></br>
 👀 Currently seeking a co-op in Backend/Fullstack for Fall 2024
 <br></br>
