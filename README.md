@@ -6,7 +6,7 @@
 <br></br>
 ⚙️ I'm most familiar with Python and TypeScript/JavaScript
 <br></br>
-👀 Currently seeking a co-op in Backend/Fullstack for Fall 2024
+👀 Currently seeking a new grad role in Backend/Fullstack for Summer 2025
 <br></br>
 💬 Ping me about design thinking, EDI in tech, the outdoors, or crafts!
 <br></br>
